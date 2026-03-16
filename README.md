@@ -54,9 +54,9 @@ Screenshot:
 68511 packets were captured in this session (as reported in the capture summary).
 
 2. List three protocols observed.
-- DNS
-- HTTP
-- TLS
+- DNS (Domain Name System) : Find the website address.
+- HTTP (HyperText Transfer Protocol): Transport the web page. 
+- TLS (Transport Layer Security): Secure the transport.
 
 3. Why is encryption important?
 Encryption protects sensitive information such as credentials and personal data from being read by attackers who can access the network.
