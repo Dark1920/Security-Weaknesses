@@ -6,8 +6,8 @@ This repository contains hands-on cybersecurity lab reports and supporting artif
 - Host discovery and port scanning with Nmap (Lab 2).
 
 ## Contents
-- `Lab1-Report.docx`: Full lab report for Module 1 (password strength and packet capture analysis).
-- `rapport_lab2_nmap_refait.docx`: Full lab report for Module 2 (Nmap discovery and scanning).
+- `lab1.pdf`: Full lab report for Module 1 (password strength and packet capture analysis).
+- `Lab2.pdf`: Full lab report for Module 2 (Nmap discovery and scanning).
 - `images/`: Screenshots used in the reports (DNS/HTTP/TLS captures and Nmap results).
 
 ## Lab 1 Summary
@@ -21,7 +21,7 @@ This repository contains hands-on cybersecurity lab reports and supporting artif
 - Outputs: Host discovery, open ports, service version detection, OS guessing, and security observations.
 
 ## How to Open the Reports
-- Open `Lab1-Report.docx` and `rapport_lab2_nmap_refait.docx` with Microsoft Word or any compatible office suite.
+- Open `lab1.pdf` and `Lab2.pdf` with any PDF reader.
 
 ## Image Assets
 - DNS/HTTP/TLS captures: `images/dns.png`, `images/http.png`, `images/tls.png`.
